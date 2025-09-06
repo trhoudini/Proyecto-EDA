@@ -109,6 +109,3 @@ def matriz_correlacion(df):
                 cmap='cool')
 
     plt.show()
-
-
-    
