@@ -40,6 +40,7 @@ Principales técnicas aplicadas:
 │       └── customer-details.xlsx
 
 │
+
 ├── notebook/                                                           # Notebooks Jupyter con el análisis
 
 │   ├── 01-Analisis_preliminar_bank.ipynb           # Análisis exploratorio inicial - banco
