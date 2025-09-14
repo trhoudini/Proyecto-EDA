@@ -29,9 +29,9 @@ Principales técnicas aplicadas:
 
 │   ├── output/                                                          # Datos procesados / limpios
 
-│   │   ├── bank-additional_limpio.csv
+│       ├── bank-additional_limpio.csv
 
-│   │   └── customer-details_multihoja.xlsx
+│       └── customer-details_multihoja.xlsx
 
 │   └── raw/                                                                  # Datos originales sin procesar
 
