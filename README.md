@@ -1,10 +1,15 @@
 🧠 Proyecto EDA con Python
 
 📖 Descripción del Proyecto
+
 Este proyecto forma parte del módulo de Python for Data y tiene como objetivo aplicar técnicas de análisis exploratorio de datos (EDA) sobre dos conjuntos de datos provenientes del sector bancario.
+
 •	bank-additional_limpio.csv: Datos de campañas de marketing telefónico de una entidad financiera portuguesa.
+
 •	customer-details_multihoja.xlsx: Información sobre características demográficas y comportamiento digital de los clientes, divididos por año de alta (2012, 2013 y 2014).
+
 El propósito es comprender mejor el perfil de los clientes, los factores que influyen en su comportamiento, y extraer conclusiones relevantes para la toma de decisiones comerciales o de marketing.
+
 Principales técnicas aplicadas:
 •	Transformación y limpieza de datos con Pandas.
 •	Visualización con Matplotlib y Seaborn.
@@ -45,12 +50,15 @@ Se requiere instalar los siguientes paquetes:
 
 
 📊 Resultados y Conclusiones
+
 -	 bank-additional_limpio.csv
+  
 •	Análisis de variables demográficas: edad, estado civil, ocupación, educación.
 •	Estudio de campañas de marketing: duración de llamadas, número de contactos, método de contacto.
 •	Variables macroeconómicas: euribor, tasa de empleo, confianza del consumidor.
 •	Análisis de la variable objetivo y: contratación del depósito bancario.
 •	Visualización de correlaciones, distribuciones y patrones por segmento.
+
 Conclusiones destacadas:
 •	Clientes más jóvenes y sin hipotecas muestran mayor probabilidad de contratación.
 •	Llamadas más largas y menos frecuentes tienden a ser más efectivas.
@@ -61,12 +69,14 @@ Conclusiones destacadas:
 •	Análisis independiente de los años 2012, 2013 y 2014.
 •	Estudio de ingresos, número de hijos, número de adolescentes, visitas web mensuales y fecha de alta del cliente.
 •	Análisis de la distribución de ingresos por número de niños en el hogar, ingresos promedio por número de visitas web, altas de clientes por mes y visitas web según mes de captación.
+
 Comparativa entre años:
 Variable	2012	2013	2014
 N.º Clientes	20.115	8.965	14.090
 Ingreso Promedio	≈ 93.000 €	≈ 93.000 €	≈ 94.000 €
 Visitas Web / mes	Media: 16.54	  Igual	Ligeramente mayor
 Antigüedad promedio	Más antiguos	Más recientes	Intermedios
+
 Conclusiones destacadas:
 •	Perfil estable a lo largo de los años.
 •	No se observa una relación clara entre ingresos y visitas web.
