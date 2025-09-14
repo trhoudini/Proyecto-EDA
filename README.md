@@ -22,6 +22,7 @@ Principales técnicas aplicadas:
 
 •	Comparación multianual
 
+
 📁 Estructura del Proyecto
 
 ├── data/                                                                    # Carpeta de datos
@@ -68,6 +69,7 @@ Principales técnicas aplicadas:
 ├── README.md                                                    # Descripción completa del proyecto
 
 └── Subir archivo GitHub.docx                              # Instrucciones para subir a GitHub
+
 
 🛠 Instalación y Requisitos
 
@@ -134,6 +136,7 @@ Conclusiones destacadas:
 
 •	Segmentar por antigüedad puede ser más útil que segmentar por ingresos.
 
+
 🔄 Próximos Pasos
 
 •	Profundizar en análisis predictivos (modelos de clasificación).
@@ -142,9 +145,11 @@ Conclusiones destacadas:
 
 •	Integrar ambos datasets para cruzar comportamiento y conversión.
 
+
 🤝 Contribuciones
 
 Si te interesa mejorar o extender este proyecto, las contribuciones son bienvenidas.
+
 
 ✒ Autor
 
